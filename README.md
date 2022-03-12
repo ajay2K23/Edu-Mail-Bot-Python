@@ -18,4 +18,4 @@ Python is used with Selenium
   
 --NOTE
 ===========================================
-Please 
+Please use this tool for education,Learning Or For fair use We are not responsible for any other Illegal Uses
